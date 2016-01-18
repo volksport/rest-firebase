@@ -1,6 +1,7 @@
 [submodule "rest-core"]
 	path = rest-core
-	url = git://github.com/godfat/rest-core.git
+	url = git://github.com/volksport/rest-core.git
+	branch = timeout-for-eventsource-socket
 [submodule "task"]
 	path = task
 	url = git://github.com/godfat/gemgem.git
